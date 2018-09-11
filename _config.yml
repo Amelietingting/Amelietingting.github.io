@@ -19,11 +19,11 @@ sidebar-avatar: /img/about-Amlie-gentle2.jpg # use absolute URL, seeing it's use
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
+#zhihu_username:     qiubaiying
+github_username:    Amelietingting
 facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+jianshu_username:   ef8ce71a900b
+twitter_username:   Amelie.tingting
 
 
 
@@ -56,8 +56,8 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+#Disqus（https://disqus.com/）
+#disqus_username: amelieting
 
 # Gitalk
 gitalk:
